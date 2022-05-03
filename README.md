@@ -1,16 +1,28 @@
-### Hi there 👋
+ Olá, seja bem vindo(a) eu sou o Gabriel Serrano 👋
+ 
+ Conheça um pouco sobre mim!!
 
-<!--
-**krieger66/krieger66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atuamente trabalhando com Ti infra ...
+- 🌱 Estudando Front-end e Back-end ...
+- 🎮 Geek por amor ...
+- 👨‍💻 Futuro progamador Front-end ...
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/krieger66">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krieger66&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krieger66&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div align="center">
+<div style="display: inline_block"><br>
+  <img align="center" alt="krieger66-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="krieger66-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="krieger66 -HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="krieger66-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ </div>
+ <hr>
+ <a href="Link linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Formandodev/count.svg" /></p>
+![snake gif](https://github.com/krieger66/krieger66/blob/output/github-contribution-grid-snake.svg)
