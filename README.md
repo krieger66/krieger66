@@ -24,6 +24,8 @@
  <hr>
  <a href="https://www.linkedin.com/in/gabriel-serrano-327515185/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">  </a>
  
+ <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/Q7SKqn3G97xpmfSOvG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/GDevs-dev-chrome-summit-Q7SKqn3G97xpmfSOvG">via GIPHY</a></p>
+ 
   ![Snake animation](https://github.com/krieger66/krieger66/blob/output/github-contribution-grid-snake.svg)
  
  </div>
