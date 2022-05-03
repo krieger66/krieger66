@@ -2,10 +2,10 @@
  
  Conheça um pouco sobre mim!!
 
-- 🔭 Atuamente trabalhando com Ti infra ...
-- 🌱 Estudando Front-end e Back-end ...
-- 🎮 Geek por amor ...
-- 👨‍💻 Futuro progamador Front-end ...
+- 🔭 Atuamente trabalhando com Ti infra,
+- 🌱 Estudando Front-end e Back-end,
+- 🎮 Geek por amor,
+- 👨‍💻 Futuro progamador Front-end,
 
 <div align="center">
   <a href="https://github.com/krieger66">
